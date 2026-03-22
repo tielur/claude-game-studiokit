@@ -8,5 +8,11 @@
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "game-design",
+      "source": "./game-design",
+      "description": "Game design skills — evaluate mechanics, fun, narrative, and more"
+    }
+  ]
 }
