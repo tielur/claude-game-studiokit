@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "game-design",
-      "source": "./game-design",
+      "source": "./plugins/game-design",
       "description": "Game design skills — evaluate mechanics, fun, narrative, and more"
     }
   ]
