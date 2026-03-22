@@ -18,4 +18,4 @@ A Claude Code plugin marketplace for game design skills — covering mechanics, 
 
 | Skill | Description |
 |-------|-------------|
-| `fun-review` | Evaluate game designs, mechanics, and ideas for fun — covers incentive loops, tension, player clarity, and surprise. |
+| <nobr>`fun-review`</nobr> | Evaluate game designs, mechanics, and ideas for fun — covers incentive loops, tension, player clarity, and surprise. |
