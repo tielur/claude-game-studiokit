@@ -1,0 +1,12 @@
+{
+  "name": "claude-game-studiokit",
+  "owner": {
+    "name": "tielur"
+  },
+  "metadata": {
+    "description": "A plugin marketplace for game design skills — mechanics, programming, narrative, art, and audio.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
