@@ -19,3 +19,4 @@ A Claude Code plugin marketplace for game design skills — covering mechanics, 
 | Skill | Description |
 |-------|-------------|
 | fun-review | Evaluate mechanics and ideas for fun — incentive loops, tension, clarity, and surprise. |
+| randomness-review | Evaluate how randomness is used — input vs output, controlled variance, info flow, and fairness. |
