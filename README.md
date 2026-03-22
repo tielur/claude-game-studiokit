@@ -8,8 +8,14 @@ A Claude Code plugin marketplace for game design skills — covering mechanics, 
 /plugin marketplace add tielur/claude-game-studiokit
 ```
 
-Then browse and install individual plugins:
+## Plugins
+
+### game-design
 
 ```
-/plugin install <plugin-name>@claude-game-studiokit
+/plugin install game-design@claude-game-studiokit
 ```
+
+| Skill | Description |
+|-------|-------------|
+| `fun-review` | Evaluate game designs, mechanics, and ideas for fun — covers incentive loops, tension, player clarity, and surprise. |
