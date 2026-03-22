@@ -20,5 +20,5 @@ game-design plugin includes the following skills:
 
 | Skill | Description |
 |-------|-------------|
-| fun-review | Evaluate mechanics and ideas for fun — incentive loops, tension, clarity, and surprise. |
-| randomness-review | Evaluate how randomness is used — input vs output, controlled variance, info flow, and fairness. |
+| fun-review | Evaluate mechanics and ideas for fun, including incentive loops, tension, clarity, and surprise. |
+| randomness-review | Evaluate how randomness is used, including input vs output, controlled variance, info flow, and fairness. |
