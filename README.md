@@ -16,6 +16,8 @@ A Claude Code plugin marketplace for game design skills — covering mechanics, 
 /plugin install game-design@claude-game-studiokit
 ```
 
+game-design plugin includes the following skills:
+
 | Skill | Description |
 |-------|-------------|
 | fun-review | Evaluate mechanics and ideas for fun — incentive loops, tension, clarity, and surprise. |
