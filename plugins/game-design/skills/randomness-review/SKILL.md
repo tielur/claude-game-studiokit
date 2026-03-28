@@ -1,5 +1,5 @@
 ---
-description: Use when the user wants feedback on how randomness is used in a game design — evaluates input vs output randomness, information flow, controlled variance, and player-facing fairness
+description: "Use when the user wants feedback on how randomness, RNG, luck, dice, loot drops, or procedural elements are used in a game design, including whether random mechanics feel fair. Evaluates input vs output randomness, information flow, controlled variance, and player-facing fairness"
 ---
 
 Evaluate the user's game design or mechanic for its use of randomness. Read the framework in `references/framework.md` for the full evaluation model, and check `references/gotchas.md` for common analysis mistakes to avoid.
