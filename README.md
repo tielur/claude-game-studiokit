@@ -21,6 +21,7 @@ game-design plugin includes the following skills:
 | Skill | Description |
 |-------|-------------|
 | fun-review | Evaluate mechanics and ideas for fun, including incentive loops, tension, clarity, surprise, and flow. |
+| playtest-plan | Plan a playtesting approach, including testing types, observation methods, structured feedback, and tester recruitment. |
 | randomness-review | Evaluate how randomness is used, including input vs output, controlled variance, info flow, and fairness. |
 | appeal-engagement-review | Evaluate whether a game has both appeal (why someone clicks) and engagement (why they keep playing). |
 | cursed-problems | Identify design conflicts that cannot be solved, including conflicting player promises and workaround strategies. |
